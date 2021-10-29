@@ -1,6 +1,6 @@
 # flutter_complete_guide
 
-A new Flutter project. Sample Flutter project.
+A new Flutter project.
 
 ## Getting Started
 
